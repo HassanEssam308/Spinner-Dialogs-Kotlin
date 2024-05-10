@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spinner&amp;Dialogs App</string>
+    <array name="optionOfDialog">
+        <item>Not Specified</item>
+        <item>Alert Dialog</item>
+        <item>Custom Dialog</item>
+    </array>
+</resources>
